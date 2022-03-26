@@ -1,12 +1,20 @@
 # <font color="maroon">Welcome</font>
 
-Welcome to **Data Science for Absolute Beginners**.  Our mission is to help members develop practical skills in Computation, Data Science, Machine Learning, and Artificial Intelligence. 
+Welcome to **Data Science for Absolute Beginners**, a learning community of inquirers.  Our mission is to help members develop practical skills in Computation, Data Science, Machine Learning, and Artificial Intelligence. 
 
 
-Please consult the [FAQ](faq), [Curriculum](curriculum), and [Learning Design](learningdesign) pages for an overview of our activities.
+* Please consult the [Curriculum](curriculum), [FAQ](faq), and [Learning Design](learningdesign) pages for an overview of our free learning programs and activities in Data Science.
 
+<p> 
+
+* Also, please check out our free learning programs in [Python](https://dsciencefab.com) and [Machine Learning](https://mlearnfab.com). 
+
+<p>
 
 * You can register for online interactive events at the [Meetup Web Page](https://www.meetup.com/mlearnfab/).
 
-* Email for any queetions or issues: mlearnfab@gmail.com
+<p>
 
+* Email us for any questions or issues: mlearnfab@gmail.com
+
+<p>

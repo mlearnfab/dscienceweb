@@ -1,15 +1,15 @@
 (faq)=
 # <font color="maroon">Frequently Asked Questions</font>
 
-**Q.** *What is Data Science for Absolute Beginners (<font color="green">@pythonfab</font>?)*
+**Q.** *What is Data Science for Absolute Beginners?*
 
-**A.** *Data Science for Absolute Beginners* is an online course designed for busy professionals who want to learn data science quickly and efficiently. Unlike most offerings, the course combines self-paced material with live interactive sessions. The course design is based on principles of active learning. Our goal is to teach you practical data science skills in a supportive community of like-minded professionals.
+**A.** *Data Science for Absolute Beginners* is an online program designed for busy professionals who want to learn data science quickly and efficiently. Unlike most offerings, the course combines self-paced material with live interactive sessions. The course design is based on principles of active learning. Our goal is to teach you practical data science skills in a supportive community of like-minded professionals.
  
 ---
 
-**Q.** *How much does <font color="green">@pythonfab</font> cost?*
+**Q.** *How much does Data Science for Absolute Beginners cost?*
 
-**A.** There is no cost. Because the number of free seats we can offer is limited, you must sign a pledge that you will spend at least two hours per week learning the material. The pledge is based on the honor system. Ultimately, you are only accountable to yourself.
+**A.** Data Science for Absolute Beginners is free.
 
 ---
  
