@@ -1,20 +1,64 @@
 # <font color="maroon">Welcome</font>
 
-Welcome to **Data Science for Absolute Beginners**, a learning community of inquirers.  Our mission is to help members develop practical skills in Computation, Data Science, Machine Learning, and Artificial Intelligence. 
+**Data Science for Absolute Beginners** is a free online program designed for busy professionals who want to learn Data Science quickly and efficiently.  It is part of a series which includes Python for Absolute Beginners and Machine Learning for Absolute Beginners.
+
+Unlike most offerings, the course combines self-paced material with live interactive sessions. The course design is based on principles of active learning. Our goal is to teach you computation skills and the power of abstract thinking, not simply coding. The course was especially designed for those interested in Data Science and Machine Learning careers.
 
 
-* Please consult the [Curriculum](curriculum), [FAQ](faq), and [Learning Design](learningdesign) pages for an overview of our free learning programs and activities in Data Science.
+## <font color="maroon">Fall 2022 Schedule</font>
 
-<p> 
+Data Science Level I is a 7 week course. It begins in September 2022.  
 
-* Also, please check out our free learning programs in [Python](https://dsciencefab.com) and [Machine Learning](https://mlearnfab.com). 
+0. **Orientation** Thu, Sep8, 7:00 PM EDT. 
+1. **Getting Started and Data Transformations** Thu, Sep15, 7:00 PM EDT
+2. **Data Visualizations** Thu, Sep22, 7:00 PM EDT
+3. **Statistics** Thu, Sep29, 7:00 PM EDT
+4. **Exploratory Data Analysis I** Thu, Oct6, 7:00 PM EDT
+5. **Data Aggregation** Tue, Oct13, 7:00 PM EDT
+6. **Math Review** Thu, Oct20, 7:00 PM EDT
+7. **Exploratory Data Analysis II** Thu, Oct27, 7:00 PM EDT
+
+
+## <font color="maroon">Registration</font>
+
+Registration for the course will begin on Thursday, September 14th and close on Friday, September 30th. Registration is free, but you will have to commit to a) logging in to the Moodle course site at least once a week; b) spending at least 30 minutes per week on the course. 
+
+To register for the course:
+
+- Create a login at the [Moodle website](https://mlfab.moodlecloud.com). Click the button "Create New Account."
+- After you have created a new account, email mlearnfab@gmail.com that you wish to register for Data Science for Absolute Beginners.
+
+
+
+
+## <font color="maroon">Course Web Site (Moodle)</font>
+
+
+Approximately 24 hours after registration, you will receive access to the Moodle course web site. The course web site will contain all the instructional resources you will need for the course. If you are having difficulty, please email: mlearnfab@gmail.com.
+
+
+## <font color="maroon">Course Web Site (Moodle)</font>
+
+You can register for online interactive events at the [Meetup Web Page](https://www.meetup.com/mlearnfab/).
+
+
+
+
+Please consult the:
+
+* [Curriculum](Curriculum) page for what you will learn in Python, Level I.
 
 <p>
 
-* You can register for online interactive events at the [Meetup Web Page](https://www.meetup.com/mlearnfab/).
+* [FAQ](FAQ) page for Frequently Asked Questions about the program.
 
 <p>
 
-* Email us for any questions or issues: mlearnfab@gmail.com
+* [Learning Design](Learningdesign) page for an overview of the learning design.
 
 <p>
+
+* [Data Science](https://pythonfab.com) and [Machine Learning](https://mlearnfab.com) web pages for course offerings in Python and Machine Learning.
+
+ 
+ 
