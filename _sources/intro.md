@@ -7,21 +7,20 @@ Unlike most offerings, the course combines self-paced material with live interac
 
 ## <font color="maroon">Fall 2022 Schedule</font>
 
-Data Science Level I is a 7 week course. It begins in September 2022.  
+Data Science Level I is a 7 week course. It begins on October 2022.  
 
-0. **Orientation** Thu, Sep8, 7:00 PM EDT. 
-1. **Data Transformations** Thu, Sep15, 7:00 PM EDT
-2. **Data Visualizations** Thu, Sep22, 7:00 PM EDT
-3. **Statistics** Thu, Sep29, 7:00 PM EDT
-4. **Data Aggregation** Thu, Oct6, 7:00 PM EDT
-5. **Exploratory Data Analysis I** Tue, Oct13, 7:00 PM EDT
-6. **Math Review** Thu, Oct20, 7:00 PM EDT
-7. **Exploratory Data Analysis II** Thu, Oct27, 7:00 PM EDT
+**Getting Started, Data Science Workflow** Thu, Oct6, 7:00 PM EDT. 
+**Pandas DataFrame Basics** Thu, Oct13, 7:00 PM EDT
+**Data Visualization Basics** Thu, Oct20, 7:00 PM EDT
+**Data Transformation Basics** Thu, Oct27, 7:00 PM EDT
+**Descriptive Statistics, Math Review** Thu, Nov3, 7:00 PM EDT
+**Exploratory Data Analysis: Case Study I** Thu, Nov10, 7:00 PM EDT
+**Exploratory Data Analysis: Case Study II** Thu, Nov7, 7:00 PM EDT
 
 
 ## <font color="maroon">Registration</font>
 
-Registration for the course will begin on Thursday, September 14th and close on Friday, September 30th. Registration is free, but you will have to commit to a) logging in to the Moodle course site at least once a week; b) spending at least 30 minutes per week on the course. 
+Registration for the course will begin on Thursday, September 15th and close on Friday, October 14th. Registration is free, but you will have to commit to a) logging in to the Moodle course site at least once a week; b) spending at least 30 minutes per week on the course. 
 
 To register for the course:
 
@@ -46,7 +45,7 @@ You can register for online interactive events at the [Meetup Web Page](https://
 
 Please consult the:
 
-* [Curriculum](Curriculum) page for what you will learn in Python, Level I.
+* [Curriculum](Curriculum) page for what you will learn in Data Science, Level I.
 
 <p>
 
