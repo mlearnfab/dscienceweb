@@ -34,28 +34,28 @@ The **Data Science, Level I** consists of 7 Units and an Overview.
 
 
 
-- **Unit 3: Statistics**  
+- **Unit 3: Statistics**  In Unit 3 we will review basic concepts in descriptive statistics.
 
 
 <p>&nbsp;</p>
 
 
-- **Unit 4: Data Aggregation.**  
+- **Unit 4: Data Aggregation.**  In Unit 4 we will present some basic methods for data aggregation and data summary.
 
 <p>&nbsp;</p>
 
 
-- **Unit 5: Exploratory Data Analysis I.**  
-
-
-<p>&nbsp;</p>
-
-
-- **Unit 6: Math Review** In Unit 6 we study various techniques for aggregating and summarizing data. The techniques include groupby, pivot tables, and hierarchical indexing.
+- **Unit 5: Exploratory Data Analysis I.**  In Unit 5 we will put together techniques learned thus far towards analyzing data sets.
 
 
 <p>&nbsp;</p>
 
 
-- **Unit 7:Exploratory Data Analysis II** In Unit 7 we turn to statistics, opening the door to an essential set of methodologies in data science.
+- **Unit 6: Math Review** In Unit 6 we will review some foundational mathematical concepts as they apply to data science.
+
+
+<p>&nbsp;</p>
+
+
+- **Unit 7:Exploratory Data Analysis II** In Unit 7 we will deepen our understanding of EDA techniques.
 
