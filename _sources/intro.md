@@ -17,14 +17,7 @@ Data Science Level I is a 7 week course. It begins in October 2022.
 - **Exploratory Data Analysis: Case Study I** Thu, Nov10, 7:00 PM EDT
 - **Exploratory Data Analysis: Case Study II** Thu, Nov7, 7:00 PM EDT
 
-
-- **Getting Started, What is Machine Learning** Thu, Oct6, 8:00 PM EDT. 
-- **Simple Linear Regression** Thu, Oct13, 8:00 PM EDT
-- **K-Nearest Neighbors** Thu, Oct20, 8:00 PM EDT
-- **Multiple Linear Regression** Thu, Oct27, 8:00 PM EDT
-- **Model Evaluation - Regression** Thu, Nov3, 8:00 PM EDT
-- **Model Evaluation - Classification** Thu, Nov10, 8:00 PM EDT
-- **Exploratory Data Analysis: Case Study II** Thu, Nov7, 8:00 PM EDT
+ 
 
 
 ## <font color="maroon">Registration</font>
