@@ -9,13 +9,13 @@ Unlike most offerings, the course combines self-paced material with live interac
 
 Data Science Level I is a 7 week course. It begins on October 2022.  
 
-**Getting Started, Data Science Workflow** Thu, Oct6, 7:00 PM EDT. 
-**Pandas DataFrame Basics** Thu, Oct13, 7:00 PM EDT
-**Data Visualization Basics** Thu, Oct20, 7:00 PM EDT
-**Data Transformation Basics** Thu, Oct27, 7:00 PM EDT
-**Descriptive Statistics, Math Review** Thu, Nov3, 7:00 PM EDT
-**Exploratory Data Analysis: Case Study I** Thu, Nov10, 7:00 PM EDT
-**Exploratory Data Analysis: Case Study II** Thu, Nov7, 7:00 PM EDT
+- **Getting Started, Data Science Workflow** Thu, Oct6, 7:00 PM EDT. 
+- **Pandas DataFrame Basics** Thu, Oct13, 7:00 PM EDT
+- **Data Visualization Basics** Thu, Oct20, 7:00 PM EDT
+- **Data Transformation Basics** Thu, Oct27, 7:00 PM EDT
+- **Descriptive Statistics, Math Review** Thu, Nov3, 7:00 PM EDT
+- **Exploratory Data Analysis: Case Study I** Thu, Nov10, 7:00 PM EDT
+- **Exploratory Data Analysis: Case Study II** Thu, Nov7, 7:00 PM EDT
 
 
 ## <font color="maroon">Registration</font>
