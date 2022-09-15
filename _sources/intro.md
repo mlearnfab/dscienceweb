@@ -10,11 +10,11 @@ Unlike most offerings, the course combines self-paced material with live interac
 Data Science Level I is a 7 week course. It begins in September 2022.  
 
 0. **Orientation** Thu, Sep8, 7:00 PM EDT. 
-1. **Getting Started and Data Transformations** Thu, Sep15, 7:00 PM EDT
+1. **Data Transformations** Thu, Sep15, 7:00 PM EDT
 2. **Data Visualizations** Thu, Sep22, 7:00 PM EDT
 3. **Statistics** Thu, Sep29, 7:00 PM EDT
-4. **Exploratory Data Analysis I** Thu, Oct6, 7:00 PM EDT
-5. **Data Aggregation** Tue, Oct13, 7:00 PM EDT
+4. **Data Aggregation** Thu, Oct6, 7:00 PM EDT
+5. **Exploratory Data Analysis I** Tue, Oct13, 7:00 PM EDT
 6. **Math Review** Thu, Oct20, 7:00 PM EDT
 7. **Exploratory Data Analysis II** Thu, Oct27, 7:00 PM EDT
 
