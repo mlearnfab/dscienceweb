@@ -11,11 +11,21 @@ The **Data Science, Level I** consists of 7 Units and an Overview.
 
 
 
+
+
+
+
 ## <font color="blue">Major Units</font>
 
 
 - **Unit 1: Getting Started, Data Science Workflow**  
 <p>&nbsp;</p>
+
+```{image} /images/dscienceworkflow.png
+:width: 500px
+:align: center
+```
+
 
 
 - **Unit 2: Pandas Dataframe Basics:** I 
@@ -51,8 +61,5 @@ The **Data Science, Level I** consists of 7 Units and an Overview.
 - **Unit 7: Case Study 2: Exploratory Data Analysis** 
 
 
-<p>&nbsp;</p>
 
-
--
 
